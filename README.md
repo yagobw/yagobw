@@ -1,6 +1,6 @@
 ### 👋 Olá!! meu nome é Yago Bezerra, sou estudante de Engenharia de Software e gosto muito da área de Análise de Dados e BackEnd.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoblw&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagobw&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block">
   <img align="center" alt="YAGO-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
