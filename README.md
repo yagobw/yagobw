@@ -1,7 +1,10 @@
-### 👋 Olá!! Sou Yago Bezerra!
+## 👋 Olá! Sou Yago Bezerra!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagobw&theme=midnight-purple&show_icons=true)
+### 💡 Sobre mim:
 
+Sou apaixonado por Engenharia de Software e focado principalmente no ecossistema Back-End. Atualmente, sou estudante de Engenharia de Software na Jala University e atuo na área desenvolvendo soluções reais, construindo APIs, arquiteturas de software e integrações de sistemas. Meu principal objetivo é me tornar um Engenheiro de Software de excelência, criando soluções inovadoras e eficientes para problemas complexos do mundo real.
+
+### 🛠️ Tecnologias:
 <div style="display: inline_block">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
@@ -24,8 +27,9 @@
   <img align="center" alt="Insomnia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
   <img align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </div>
-          
-<div></br>
+
+### 📫 Como me encontrar:
+<div>
   <a href="https://www.instagram.com/yagobw_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:yagobezerra068@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yago-bezerra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
