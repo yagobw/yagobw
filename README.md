@@ -1,8 +1,8 @@
-## 👋 Olá! Sou Yago Bezerra!
+## 👋 Hi! I am Yago Bezerra!
 
-### 💡 Sobre mim:
+### 💡 About me:
 
-Sou apaixonado por Engenharia de Software e focado principalmente no ecossistema Back-End. Atualmente, sou estudante de Engenharia de Software na Jala University e atuo na área desenvolvendo soluções reais, construindo APIs, arquiteturas de software e integrações de sistemas. Meu principal objetivo é me tornar um Engenheiro de Software de excelência, criando soluções inovadoras e eficientes para problemas complexos do mundo real.
+I am passionate about Software Engineering and mainly focus on the Back-End ecosystem. Currently, I am a Software Engineering Student at Jala University and work in the field developing real solutions, building APIs, software architectures and system integrations. My main goal is to become a world-class Software Engineer, creating innovative and efficient solutions to complex real-world problems.
 
 ### 🛠️ Tecnologias:
 <div style="display: inline_block">
