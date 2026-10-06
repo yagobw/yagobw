@@ -4,7 +4,7 @@
 
 I am passionate about Software Engineering and mainly focus on the Back-End ecosystem. Currently, I am a Software Engineering Student at Jala University and work in the field developing real solutions, building APIs, software architectures and system integrations. My main goal is to become a world-class Software Engineer, creating innovative and efficient solutions to complex real-world problems.
 
-### 🛠️ Tecnologias:
+### 🛠️ Skills:
 <div style="display: inline_block">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
@@ -28,7 +28,7 @@ I am passionate about Software Engineering and mainly focus on the Back-End ecos
   <img align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </div>
 
-### 📫 Como me encontrar:
+### 📫 How to reach me:
 <div>
   <a href="https://www.instagram.com/yagobw_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:yagobezerra068@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
